@@ -1,3 +1,20 @@
+##  Repository structure
+├── README.md
+├── LICENSE
+├── .gitignore
+├── src/
+│   └── restaurant.asm
+├── docs/
+│   ├── screenshots/
+│   │   ├── main-menu.png
+│   │   ├── breakfast.png
+│   │   ├── lunch-dinner.png
+│   │   └── result-total.png
+│   └── design-notes.md
+└── tools/
+    └── dosbox-run.conf
+
+
 # 🍽️ Restaurant Management System (Assembly Language)
 
 ### 📘 University Project — Green University of Bangladesh  
